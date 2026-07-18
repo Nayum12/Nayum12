@@ -29,8 +29,8 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/nayum-basha-m-741455279/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
