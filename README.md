@@ -119,8 +119,10 @@ Responsive personal portfolio built using HTML, CSS & JavaScript.
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nayum12&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <a href="https://github.com/nayum12">
+    <img src="https://img.shields.io/badge/GitHub-nayum12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
 
 </p>
 
