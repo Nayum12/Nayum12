@@ -79,9 +79,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nayum12&theme=onedark&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Nayum12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
 </p>
 
 ---
