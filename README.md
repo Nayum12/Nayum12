@@ -59,19 +59,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=nayum12&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayum12&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
