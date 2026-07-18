@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MALIGI NAYUM BASHA</h1>
 <h3 align="center">A Passionate Java Full Stack Developer | AI & Data Science Graduate | DSA Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayum12&label=Profile%20views&color=0e75b6&style=flat" alt="nayum12" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nayum12&label=PROFILE+VIEWS&color=orange&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayum12" alt="nayum12" /></a> </p>
 
